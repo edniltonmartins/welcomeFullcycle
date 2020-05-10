@@ -1,0 +1,17 @@
+{
+  "name": "nodejs-alpine-image-exemplo",
+  "version": "0.0.1",
+  "description": "nodejs com Alpine image exemplo",
+  "author": "Ednilton MSilva",
+  "license": "MIT",
+  "main": "server.js",
+  "keywords": [
+    "nodejs",
+    "bootstrap",
+    "express"
+  ],
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+  
+}
